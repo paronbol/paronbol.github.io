@@ -1,0 +1,10 @@
+// _custom.scss
+@import "bootstrap/functions"
+@import "bootstrap/variables"
+
+// define some custom styles
+$primary: #ccff00;
+$font-family-base: 'Verdanda';
+
+// import Bootstrap
+@import "bootstrap"
